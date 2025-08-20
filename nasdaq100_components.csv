@@ -1,4 +1,4 @@
-ticker, company_name, sector, industry
+ticker,company_name,sector,industry
 ADBE,Adobe Inc.,Information Technology,Application Software
 AMD,Advanced Micro Devices,Information Technology,Semiconductors
 ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
